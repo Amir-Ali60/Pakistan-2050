@@ -18,3 +18,12 @@ The website is fully responsive, professional, and includes animations, interact
 - Hosted on [Render](https://render.com) via GitHub repository
 
 ## 🔹 File Structure
+pakistan2050/
+│
+├── index.html # Main landing page
+├── css/
+│ └── style.css # Styles
+├── js/
+│ └── script.js # Scripts
+├── images/ # All images and assets
+└── README.md
