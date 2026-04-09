@@ -7,7 +7,7 @@ The website is fully responsive, professional, and includes animations, interact
 
 - **Static HTML/CSS/JS** based website – no backend required
 - **Interactive sections** showcasing Pakistan’s future in economy, technology, and culture
-- **Professional contact form** integrated with [Web3Forms](https://web3forms.com)
+- **Professional contact form** integrated with [Web3Forms]
 - Fully **responsive design** for desktop, tablet, and mobile
 - Smooth **animations and transitions** for better user experience
 
